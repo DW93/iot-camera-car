@@ -37,7 +37,7 @@
           "android-installLocation": "auto"
         },
         "isActive_": true,
-        "appName_": "Final_Code_22_04_16",
+        "appName_": "iot_wifi_car",
         "appID_": "not.yet.specified",
         "appAccess_": {
           "mode": "legacy",
@@ -66,7 +66,7 @@
           "android-installLocation": "auto"
         },
         "isActive_": true,
-        "appName_": "Final_Code_22_04_16",
+        "appName_": "iot_wifi_car",
         "appID_": "not.yet.specified",
         "appAccess_": {
           "mode": "legacy",
@@ -94,7 +94,7 @@
           "ios-configuration": "adhoc"
         },
         "isActive_": true,
-        "appName_": "Final_Code_22_04_16",
+        "appName_": "iot_wifi_car",
         "appID_": "not.yet.specified",
         "appAccess_": {
           "mode": "legacy",
@@ -118,7 +118,7 @@
         "name_": "Windows8",
         "preferences_": {},
         "isActive_": true,
-        "appName_": "Final_Code_22_04_16",
+        "appName_": "iot_wifi_car",
         "appID_": "not.yet.specified",
         "appAccess_": {
           "mode": "legacy",
