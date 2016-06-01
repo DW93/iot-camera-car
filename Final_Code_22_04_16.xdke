@@ -1,0 +1,105 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "Final_Code_22_04_16.xdk": {
+        "previousModTime": 1461342352139,
+        "modified": 1461342352139,
+        "seen": true,
+        "name": "Final_Code_22_04_16.xdk"
+      },
+      "Final_Code_22_04_16.xdke": {
+        "previousModTime": 1461362833800,
+        "modified": 1461362833800,
+        "seen": true,
+        "name": "Final_Code_22_04_16.xdke"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1460059962723,
+        "modified": 1460059962723,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1461623038918,
+        "modified": 1461623038918,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1460059962708,
+        "modified": 1460059962708,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1461342351503,
+        "modified": 1461342351503,
+        "seen": true,
+        "name": "README.md"
+      },
+      "client/index.css": {
+        "previousModTime": 1460633846955,
+        "modified": 1460633846955,
+        "seen": true,
+        "name": "client/index.css"
+      },
+      "client/index.html": {
+        "previousModTime": 1461422777456,
+        "modified": 1461422777456,
+        "seen": true,
+        "name": "client/index.html"
+      },
+      "client/index.js": {
+        "previousModTime": 1460063797732,
+        "modified": 1460063797732,
+        "seen": true,
+        "name": "client/index.js"
+      },
+      "client/sketch.js": {
+        "previousModTime": 1461362669528,
+        "modified": 1461362669528,
+        "seen": true,
+        "name": "client/sketch.js"
+      },
+      "client/libraries/p5.dom.js": {
+        "previousModTime": 1449414224927,
+        "modified": 1449414224927,
+        "seen": true,
+        "name": "client/libraries/p5.dom.js"
+      },
+      "client/libraries/p5.js": {
+        "previousModTime": 1449414225052,
+        "modified": 1449414225052,
+        "seen": true,
+        "name": "client/libraries/p5.js"
+      },
+      "client/libraries/p5.sound.js": {
+        "previousModTime": 1449414225084,
+        "modified": 1449414225084,
+        "seen": true,
+        "name": "client/libraries/p5.sound.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1461342352063,
+        "modified": 1461342352063,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1461623393352
+      },
+      "client/index.html": {
+        "previousModTime": 1461623393352
+      }
+    }
+  }
+}
