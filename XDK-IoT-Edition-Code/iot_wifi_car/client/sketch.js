@@ -1,10 +1,10 @@
 var ledState = false;  //led toggle, initially off(false)
-var pingSpeedState = true;  //ping distance controlled speed toggle, initailly off(false)
+var pingSpeedState = true;  //ping distance controlled speed toggle, initailly on(true)
 var hornState = false;  //horn pressed state, initially off (false)
 
 var cameraSlider;  //setup slider for camera rotation angle
 var pwmSlider;  //setup for pwm slider value
-var pwmSliderVal = 70;  //pwm motor speed percentage, initially 100%
+var pwmSliderVal = 70;  //pwm motor speed percentage, initially 70%
 var frontPing = 0;  //front ping cm value for displaying text, initially 0 at program startup so not undefined
 var backPing = 0;  //back ping cm value for displaying text, initially 0 at program startup so not undefined
 
@@ -58,7 +58,7 @@ function drawController() {  //draws controller sketch
     fill(leftArrowColour);  //fill colour of left arrow
     triangle(315,570,315,600,280,585);  //left arrow, triangle((top x,y),(bottom x,y),(left x,y))
     fill(rightArrowColour); //fill colour of right arrow
-    triangle(375,570,375,600,410,585);  //right arrow, triangle(top x,y),(bottom x,y),(right x,y)              //check this one
+    triangle(375,570,375,600,410,585);  //right arrow, triangle(top x,y),(bottom x,y),(right x,y)
 
     fill(ledStateColour);  //fill colour of led state indicator
     ellipse(50,560,25,25);  //ellipse for left led
