@@ -8,17 +8,17 @@
   },
   "iot-tab": {
     "fileStatus": {
-      "Final_Code_22_04_16.xdk": {
+      "iot_wifi_car.xdk": {
         "previousModTime": 1461342352139,
         "modified": 1461342352139,
         "seen": true,
-        "name": "Final_Code_22_04_16.xdk"
+        "name": "iot_wifi_car.xdk"
       },
-      "Final_Code_22_04_16.xdke": {
+      "iot_wifi_car.xdke": {
         "previousModTime": 1461362833800,
         "modified": 1461362833800,
         "seen": true,
-        "name": "Final_Code_22_04_16.xdke"
+        "name": "iot_wifi_car.xdke"
       },
       "LICENSE.md": {
         "previousModTime": 1460059962723,
