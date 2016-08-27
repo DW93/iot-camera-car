@@ -8,7 +8,8 @@ The XDK code starts the node.js server running on the galileo and displays the i
 
 The Ardunio sketch reads the ultrasonic distance sensors and writes the distances to files that are read by the XDK code, the arduino code also displays the distances on an LCD.
 
+Completed Project
 ![Alt text](http://i.imgur.com/pVadyv3.jpg "Completed Project")
 
-
-http://imgur.com/Y8ZYmaM
+Controller User Interface
+![Alt text](http://imgur.com/Y8ZYmaM.jpg "User Interface")
